@@ -1,3 +1,4 @@
+//This in for adding functions
 let gameseq=[];
 let userseq=[];
 let started=false;
